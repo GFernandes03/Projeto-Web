@@ -1,4 +1,4 @@
-# Projeto-Web
+# Projeto Web
 
 E-commerce simples desenvolvido para a disciplina de **Programação Web**.
 
